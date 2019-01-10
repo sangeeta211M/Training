@@ -11,7 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Training Project 4 !!");
+            Console.WriteLine("Commit Changes ");
             Console.ReadKey();
+
         }
     }
 }
